@@ -3,3 +3,5 @@
 .virtual_documents/
 _build/
 src/
+**/.ipynb_checkpoints
+**/__pycache__
